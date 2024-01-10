@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assingment1</string>
+    <string name="how_was_the_services">How was the services ?</string>
+    <string name="tip_amount">Tip amount: %s</string>
+</resources>
